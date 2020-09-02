@@ -1,5 +1,5 @@
 # Project_Training_0 
-**Machina Learning**
+**Machine Learning**
 
 A simple example of Classification and Regression problem.
 Using data on UCI. 
