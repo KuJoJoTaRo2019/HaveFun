@@ -13,7 +13,7 @@ Classification: http://archive.ics.uci.edu/ml/machine-learning-databases/undocum
 
 Regression: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.data
 
-***
+
 
 # Project_Training_1
 **Web Crawler**
@@ -27,3 +27,25 @@ Besides, TianMao has its own way to defense. I wanted data of all pages at first
 
 The third one uses 'selenium' to create a 'chromedriver'. It sounds great but actually costs me a lot of time. Because Google Colaboratory can't get the correct
  permission.(you have to use absolute path) Maybe I can solve this problem one day.
+
+
+
+
+# Project_Training_2
+**Deep Learning**
+
+When I first create this project file, it made me excited. But when I really dive into it, I feel a little bit awful. 
+
+1. Code given by others can be un-executable. You shouldn't copy them all and save it and open steam. Read each line and make your point. This time I got a numeric_gradient function, and a lambda function. These two would give us the grads. But it never worked, because formal parameters have nothing to do with actual parameters!
+
+2. When you are going to learn something new, BETTER to start with a whole example NEVER pieces of it! God knows how many time I have wasted by matching pieces. You know, tensorflow has differient versions, always be careful when you start. Print the version!
+
+3. Most surprising thing is, you just need to feed the model the path of our data, because your memory can never afford data of tons of GB. Just flow, is OK.
+
+4. The structure of layers are important, and the data pre-processing is even more important! Deep Learning needs beautiful data.
+
+The best model I have trained is about 85% test accuracy. But it's a binary classification problem, I think it's not enough.
+
+
+# Project_Training_3
+**Social Network Analysis**
